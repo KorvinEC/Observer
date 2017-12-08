@@ -1,0 +1,1024 @@
+{
+    "Cpu percent usage": [
+        6.2,
+        4.7,
+        1.6,
+        12.5
+    ],
+    "Net adapters": {
+        "Local Area Connection* 3": {
+            "IPv6": {
+                "address": "fe80::2875:cf83:2689:b18e"
+            },
+            "Incoimg": {
+                "bytes": "3.71 K",
+                "drops": 0,
+                "errors": 0,
+                "pkts": 25
+            },
+            "MAC": {
+                "address": "00-00-00-00-00-00-00-E0"
+            },
+            "Outgoing": {
+                "bytes": "78.61 K",
+                "drops": 0,
+                "errors": 0,
+                "pkts": 610
+            },
+            "Stats": {
+                "Duplex": "full",
+                "Is up": "yes",
+                "Mtu": 1472,
+                "Speed": "0 Mb"
+            }
+        },
+        "Loopback Pseudo-Interface 1": {
+            "IPv4": {
+                "address": "127.0.0.1",
+                "netmask": "255.0.0.0"
+            },
+            "IPv6": {
+                "address": "::1"
+            },
+            "Incoimg": {
+                "bytes": "0.00 B",
+                "drops": 0,
+                "errors": 0,
+                "pkts": 0
+            },
+            "Outgoing": {
+                "bytes": "0.00 B",
+                "drops": 0,
+                "errors": 0,
+                "pkts": 0
+            },
+            "Stats": {
+                "Duplex": "full",
+                "Is up": "yes",
+                "Mtu": 1500,
+                "Speed": "1073 Mb"
+            }
+        },
+        "PdaNet Modem": {
+            "IPv4": {
+                "address": "68.245.171.115",
+                "netmask": "255.255.255.255"
+            },
+            "Incoimg": {
+                "bytes": "188.94 M",
+                "drops": 0,
+                "errors": 0,
+                "pkts": 238837
+            },
+            "Outgoing": {
+                "bytes": "8.35 M",
+                "drops": 0,
+                "errors": 0,
+                "pkts": 132783
+            },
+            "Stats": {
+                "Duplex": "full",
+                "Is up": "yes",
+                "Mtu": 1500,
+                "Speed": "2 Mb"
+            }
+        },
+        "VirtualBox Host-Only Network": {
+            "IPv4": {
+                "address": "192.168.56.1",
+                "netmask": "255.255.255.0"
+            },
+            "IPv6": {
+                "address": "fe80::d1a0:b0c6:80e7:e49"
+            },
+            "Incoimg": {
+                "bytes": "0.00 B",
+                "drops": 0,
+                "errors": 0,
+                "pkts": 0
+            },
+            "MAC": {
+                "address": "0A-00-27-00-00-02"
+            },
+            "Outgoing": {
+                "bytes": "0.00 B",
+                "drops": 0,
+                "errors": 0,
+                "pkts": 0
+            },
+            "Stats": {
+                "Duplex": "full",
+                "Is up": "yes",
+                "Mtu": 1500,
+                "Speed": "1000 Mb"
+            }
+        },
+        "isatap.{0281FD79-378E-4B65-B2EB-F37C33E238E4}": {
+            "IPv6": {
+                "address": "fe80::5efe:192.168.56.1"
+            },
+            "Incoimg": {
+                "bytes": "0.00 B",
+                "drops": 0,
+                "errors": 0,
+                "pkts": 0
+            },
+            "MAC": {
+                "address": "00-00-00-00-00-00-00-E0"
+            },
+            "Outgoing": {
+                "bytes": "0.00 B",
+                "drops": 0,
+                "errors": 0,
+                "pkts": 0
+            },
+            "Stats": {
+                "Duplex": "full",
+                "Is up": "no",
+                "Mtu": 1280,
+                "Speed": "0 Mb"
+            }
+        },
+        "isatap.{DE206043-BBC5-4DFC-AFFA-6E71E49A0240}": {
+            "IPv6": {
+                "address": "fe80::200:5efe:68.245.171.115"
+            },
+            "Incoimg": {
+                "bytes": "0.00 B",
+                "drops": 0,
+                "errors": 0,
+                "pkts": 0
+            },
+            "MAC": {
+                "address": "00-00-00-00-00-00-00-E0"
+            },
+            "Outgoing": {
+                "bytes": "0.00 B",
+                "drops": 0,
+                "errors": 0,
+                "pkts": 0
+            },
+            "Stats": {
+                "Duplex": "full",
+                "Is up": "no",
+                "Mtu": 1280,
+                "Speed": "0 Mb"
+            }
+        }
+    },
+    "Processes": {
+        "Process 0": {
+            "Memory_info": {
+                "Rss": "4.00 K",
+                "Vms": "0.00 B"
+            },
+            "Name": "System Idle Process",
+            "Pid": 0,
+            "Status": "running"
+        },
+        "Process 1": {
+            "Memory_info": {
+                "Rss": "24.90 M",
+                "Vms": "324.00 K"
+            },
+            "Name": "System",
+            "Pid": 4,
+            "Status": "running"
+        },
+        "Process 10": {
+            "Memory_info": {
+                "Rss": "106.30 M",
+                "Vms": "102.39 M"
+            },
+            "Name": "svchost.exe",
+            "Pid": 544,
+            "Status": "running"
+        },
+        "Process 11": {
+            "Memory_info": {
+                "Rss": "27.04 M",
+                "Vms": "21.95 M"
+            },
+            "Name": "svchost.exe",
+            "Pid": 1048,
+            "Status": "running"
+        },
+        "Process 12": {
+            "Memory_info": {
+                "Rss": "14.34 M",
+                "Vms": "13.80 M"
+            },
+            "Name": "svchost.exe",
+            "Pid": 1072,
+            "Status": "running"
+        },
+        "Process 13": {
+            "Memory_info": {
+                "Rss": "4.82 M",
+                "Vms": "2.41 M"
+            },
+            "Name": "svchost.exe",
+            "Pid": 1208,
+            "Status": "running"
+        },
+        "Process 14": {
+            "Memory_info": {
+                "Rss": "5.42 M",
+                "Vms": "4.46 M"
+            },
+            "Name": "NVDisplay.Container.exe",
+            "Pid": 1216,
+            "Status": "running"
+        },
+        "Process 15": {
+            "Memory_info": {
+                "Rss": "19.46 M",
+                "Vms": "15.84 M"
+            },
+            "Name": "svchost.exe",
+            "Pid": 1312,
+            "Status": "running"
+        },
+        "Process 16": {
+            "Memory_info": {
+                "Rss": "600.00 K",
+                "Vms": "1.49 M"
+            },
+            "Name": "WUDFHost.exe",
+            "Pid": 1392,
+            "Status": "running"
+        },
+        "Process 17": {
+            "Memory_info": {
+                "Rss": "12.53 M",
+                "Vms": "7.87 M"
+            },
+            "Name": "svchost.exe",
+            "Pid": 1460,
+            "Status": "running"
+        },
+        "Process 18": {
+            "Memory_info": {
+                "Rss": "692.00 K",
+                "Vms": "1.28 M"
+            },
+            "Name": "WTabletServiceCon.exe",
+            "Pid": 1664,
+            "Status": "running"
+        },
+        "Process 19": {
+            "Memory_info": {
+                "Rss": "3.62 M",
+                "Vms": "5.87 M"
+            },
+            "Name": "spoolsv.exe",
+            "Pid": 2080,
+            "Status": "running"
+        },
+        "Process 2": {
+            "Memory_info": {
+                "Rss": "276.00 K",
+                "Vms": "364.00 K"
+            },
+            "Name": "smss.exe",
+            "Pid": 368,
+            "Status": "running"
+        },
+        "Process 20": {
+            "Memory_info": {
+                "Rss": "2.31 M",
+                "Vms": "1.96 M"
+            },
+            "Name": "svchost.exe",
+            "Pid": 2352,
+            "Status": "running"
+        },
+        "Process 21": {
+            "Memory_info": {
+                "Rss": "6.02 M",
+                "Vms": "8.12 M"
+            },
+            "Name": "nvcontainer.exe",
+            "Pid": 2472,
+            "Status": "running"
+        },
+        "Process 22": {
+            "Memory_info": {
+                "Rss": "10.46 M",
+                "Vms": "4.19 M"
+            },
+            "Name": "svchost.exe",
+            "Pid": 2508,
+            "Status": "running"
+        },
+        "Process 23": {
+            "Memory_info": {
+                "Rss": "5.25 M",
+                "Vms": "2.70 M"
+            },
+            "Name": "dasHost.exe",
+            "Pid": 2520,
+            "Status": "running"
+        },
+        "Process 24": {
+            "Memory_info": {
+                "Rss": "12.81 M",
+                "Vms": "6.96 M"
+            },
+            "Name": "svchost.exe",
+            "Pid": 2532,
+            "Status": "running"
+        },
+        "Process 25": {
+            "Memory_info": {
+                "Rss": "12.69 M",
+                "Vms": "21.14 M"
+            },
+            "Name": "GameScannerService.exe",
+            "Pid": 2596,
+            "Status": "running"
+        },
+        "Process 26": {
+            "Memory_info": {
+                "Rss": "3.07 M",
+                "Vms": "1.38 M"
+            },
+            "Name": "svchost.exe",
+            "Pid": 2940,
+            "Status": "running"
+        },
+        "Process 27": {
+            "Memory_info": {
+                "Rss": "1.25 M",
+                "Vms": "1.07 M"
+            },
+            "Name": "alg.exe",
+            "Pid": 3040,
+            "Status": "running"
+        },
+        "Process 28": {
+            "Memory_info": {
+                "Rss": "24.52 M",
+                "Vms": "30.95 M"
+            },
+            "Name": "SearchIndexer.exe",
+            "Pid": 4484,
+            "Status": "running"
+        },
+        "Process 29": {
+            "Memory_info": {
+                "Rss": "404.00 K",
+                "Vms": "1.54 M"
+            },
+            "Name": "GoogleCrashHandler.exe",
+            "Pid": 5688,
+            "Status": "running"
+        },
+        "Process 3": {
+            "Memory_info": {
+                "Rss": "1.96 M",
+                "Vms": "1.58 M"
+            },
+            "Name": "csrss.exe",
+            "Pid": 564,
+            "Status": "running"
+        },
+        "Process 30": {
+            "Memory_info": {
+                "Rss": "272.00 K",
+                "Vms": "1.36 M"
+            },
+            "Name": "GoogleCrashHandler64.exe",
+            "Pid": 5696,
+            "Status": "running"
+        },
+        "Process 31": {
+            "Memory_info": {
+                "Rss": "4.15 M",
+                "Vms": "2.19 M"
+            },
+            "Name": "csrss.exe",
+            "Pid": 6948,
+            "Status": "running"
+        },
+        "Process 32": {
+            "Memory_info": {
+                "Rss": "2.95 M",
+                "Vms": "1.84 M"
+            },
+            "Name": "winlogon.exe",
+            "Pid": 6696,
+            "Status": "running"
+        },
+        "Process 33": {
+            "Memory_info": {
+                "Rss": "44.19 M",
+                "Vms": "75.87 M"
+            },
+            "Name": "dwm.exe",
+            "Pid": 6676,
+            "Status": "running"
+        },
+        "Process 34": {
+            "Memory_info": {
+                "Rss": "11.95 M",
+                "Vms": "7.98 M"
+            },
+            "Name": "NVDisplay.Container.exe",
+            "Pid": 8120,
+            "Status": "running"
+        },
+        "Process 35": {
+            "Memory_info": {
+                "Rss": "19.68 M",
+                "Vms": "4.57 M"
+            },
+            "Name": "sihost.exe",
+            "Pid": 7344,
+            "Status": "running"
+        },
+        "Process 36": {
+            "Memory_info": {
+                "Rss": "1.20 M",
+                "Vms": "1.38 M"
+            },
+            "Name": "Pen_TabletUser.exe",
+            "Pid": 5160,
+            "Status": "running"
+        },
+        "Process 37": {
+            "Memory_info": {
+                "Rss": "8.30 M",
+                "Vms": "5.87 M"
+            },
+            "Name": "taskhostw.exe",
+            "Pid": 6872,
+            "Status": "running"
+        },
+        "Process 38": {
+            "Memory_info": {
+                "Rss": "9.90 M",
+                "Vms": "9.44 M"
+            },
+            "Name": "nvcontainer.exe",
+            "Pid": 7052,
+            "Status": "running"
+        },
+        "Process 39": {
+            "Memory_info": {
+                "Rss": "1.07 M",
+                "Vms": "1.37 M"
+            },
+            "Name": "WacomHost.exe",
+            "Pid": 6372,
+            "Status": "running"
+        },
+        "Process 4": {
+            "Memory_info": {
+                "Rss": "592.00 K",
+                "Vms": "1.04 M"
+            },
+            "Name": "wininit.exe",
+            "Pid": 672,
+            "Status": "running"
+        },
+        "Process 40": {
+            "Memory_info": {
+                "Rss": "24.82 M",
+                "Vms": "9.05 M"
+            },
+            "Name": "RuntimeBroker.exe",
+            "Pid": 6700,
+            "Status": "running"
+        },
+        "Process 41": {
+            "Memory_info": {
+                "Rss": "116.89 M",
+                "Vms": "83.62 M"
+            },
+            "Name": "explorer.exe",
+            "Pid": 2880,
+            "Status": "running"
+        },
+        "Process 42": {
+            "Memory_info": {
+                "Rss": "11.78 M",
+                "Vms": "10.90 M"
+            },
+            "Name": "Pen_Tablet.exe",
+            "Pid": 3908,
+            "Status": "running"
+        },
+        "Process 43": {
+            "Memory_info": {
+                "Rss": "4.23 M",
+                "Vms": "2.79 M"
+            },
+            "Name": "Pen_TouchUser.exe",
+            "Pid": 6736,
+            "Status": "running"
+        },
+        "Process 44": {
+            "Memory_info": {
+                "Rss": "43.84 M",
+                "Vms": "31.90 M"
+            },
+            "Name": "ShellExperienceHost.exe",
+            "Pid": 7392,
+            "Status": "stopped"
+        },
+        "Process 45": {
+            "Memory_info": {
+                "Rss": "36.30 M",
+                "Vms": "52.80 M"
+            },
+            "Name": "SearchUI.exe",
+            "Pid": 4380,
+            "Status": "stopped"
+        },
+        "Process 46": {
+            "Memory_info": {
+                "Rss": "1.43 M",
+                "Vms": "34.07 M"
+            },
+            "Name": "NVIDIA Web Helper.exe",
+            "Pid": 5056,
+            "Status": "running"
+        },
+        "Process 47": {
+            "Memory_info": {
+                "Rss": "104.00 K",
+                "Vms": "9.87 M"
+            },
+            "Name": "conhost.exe",
+            "Pid": 4836,
+            "Status": "running"
+        },
+        "Process 48": {
+            "Memory_info": {
+                "Rss": "6.23 M",
+                "Vms": "7.05 M"
+            },
+            "Name": "RtkNGUI64.exe",
+            "Pid": 2216,
+            "Status": "running"
+        },
+        "Process 49": {
+            "Memory_info": {
+                "Rss": "54.65 M",
+                "Vms": "45.25 M"
+            },
+            "Name": "PdaNetPC.exe",
+            "Pid": 4032,
+            "Status": "running"
+        },
+        "Process 5": {
+            "Memory_info": {
+                "Rss": "4.44 M",
+                "Vms": "3.14 M"
+            },
+            "Name": "services.exe",
+            "Pid": 816,
+            "Status": "running"
+        },
+        "Process 50": {
+            "Memory_info": {
+                "Rss": "49.48 M",
+                "Vms": "60.43 M"
+            },
+            "Name": "RzSynapse.exe",
+            "Pid": 8044,
+            "Status": "running"
+        },
+        "Process 51": {
+            "Memory_info": {
+                "Rss": "904.00 K",
+                "Vms": "1.20 M"
+            },
+            "Name": "jusched.exe",
+            "Pid": 1236,
+            "Status": "running"
+        },
+        "Process 52": {
+            "Memory_info": {
+                "Rss": "5.91 M",
+                "Vms": "7.54 M"
+            },
+            "Name": "svchost.exe",
+            "Pid": 7452,
+            "Status": "running"
+        },
+        "Process 53": {
+            "Memory_info": {
+                "Rss": "1.24 M",
+                "Vms": "1000.00 K"
+            },
+            "Name": "fontdrvhost.exe",
+            "Pid": 812,
+            "Status": "running"
+        },
+        "Process 54": {
+            "Memory_info": {
+                "Rss": "29.25 M",
+                "Vms": "45.09 M"
+            },
+            "Name": "RzStats.Manager.exe",
+            "Pid": 2172,
+            "Status": "running"
+        },
+        "Process 55": {
+            "Memory_info": {
+                "Rss": "3.77 M",
+                "Vms": "3.18 M"
+            },
+            "Name": "RazerIngameEngine.exe",
+            "Pid": 6624,
+            "Status": "running"
+        },
+        "Process 56": {
+            "Memory_info": {
+                "Rss": "4.54 M",
+                "Vms": "14.53 M"
+            },
+            "Name": "rzcefrenderprocess.exe",
+            "Pid": 8164,
+            "Status": "running"
+        },
+        "Process 57": {
+            "Memory_info": {
+                "Rss": "4.60 M",
+                "Vms": "14.55 M"
+            },
+            "Name": "rzcefrenderprocess.exe",
+            "Pid": 2728,
+            "Status": "running"
+        },
+        "Process 58": {
+            "Memory_info": {
+                "Rss": "310.67 M",
+                "Vms": "235.99 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 4512,
+            "Status": "running"
+        },
+        "Process 59": {
+            "Memory_info": {
+                "Rss": "2.14 M",
+                "Vms": "1.66 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 4496,
+            "Status": "running"
+        },
+        "Process 6": {
+            "Memory_info": {
+                "Rss": "8.89 M",
+                "Vms": "5.81 M"
+            },
+            "Name": "lsass.exe",
+            "Pid": 824,
+            "Status": "running"
+        },
+        "Process 60": {
+            "Memory_info": {
+                "Rss": "1.37 M",
+                "Vms": "1.58 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 8072,
+            "Status": "running"
+        },
+        "Process 61": {
+            "Memory_info": {
+                "Rss": "257.45 M",
+                "Vms": "328.33 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 5540,
+            "Status": "running"
+        },
+        "Process 62": {
+            "Memory_info": {
+                "Rss": "53.15 M",
+                "Vms": "57.56 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 4656,
+            "Status": "running"
+        },
+        "Process 63": {
+            "Memory_info": {
+                "Rss": "12.14 M",
+                "Vms": "24.32 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 1700,
+            "Status": "running"
+        },
+        "Process 64": {
+            "Memory_info": {
+                "Rss": "37.32 M",
+                "Vms": "44.54 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 5440,
+            "Status": "running"
+        },
+        "Process 65": {
+            "Memory_info": {
+                "Rss": "77.39 M",
+                "Vms": "85.80 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 6628,
+            "Status": "running"
+        },
+        "Process 66": {
+            "Memory_info": {
+                "Rss": "54.64 M",
+                "Vms": "63.29 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 5812,
+            "Status": "running"
+        },
+        "Process 67": {
+            "Memory_info": {
+                "Rss": "2.79 M",
+                "Vms": "11.38 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 7152,
+            "Status": "running"
+        },
+        "Process 68": {
+            "Memory_info": {
+                "Rss": "181.29 M",
+                "Vms": "150.64 M"
+            },
+            "Name": "Telegram.exe",
+            "Pid": 3784,
+            "Status": "running"
+        },
+        "Process 69": {
+            "Memory_info": {
+                "Rss": "208.05 M",
+                "Vms": "230.57 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 2240,
+            "Status": "running"
+        },
+        "Process 7": {
+            "Memory_info": {
+                "Rss": "11.39 M",
+                "Vms": "6.80 M"
+            },
+            "Name": "svchost.exe",
+            "Pid": 916,
+            "Status": "running"
+        },
+        "Process 70": {
+            "Memory_info": {
+                "Rss": "192.26 M",
+                "Vms": "218.05 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 7520,
+            "Status": "running"
+        },
+        "Process 71": {
+            "Memory_info": {
+                "Rss": "22.11 M",
+                "Vms": "10.36 M"
+            },
+            "Name": "notepad++.exe",
+            "Pid": 6568,
+            "Status": "running"
+        },
+        "Process 72": {
+            "Memory_info": {
+                "Rss": "87.79 M",
+                "Vms": "97.84 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 6984,
+            "Status": "running"
+        },
+        "Process 73": {
+            "Memory_info": {
+                "Rss": "65.16 M",
+                "Vms": "68.19 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 6484,
+            "Status": "running"
+        },
+        "Process 74": {
+            "Memory_info": {
+                "Rss": "9.85 M",
+                "Vms": "6.43 M"
+            },
+            "Name": "ImeBroker.exe",
+            "Pid": 5532,
+            "Status": "running"
+        },
+        "Process 75": {
+            "Memory_info": {
+                "Rss": "36.23 M",
+                "Vms": "41.57 M"
+            },
+            "Name": "joxi.exe",
+            "Pid": 8188,
+            "Status": "running"
+        },
+        "Process 76": {
+            "Memory_info": {
+                "Rss": "1.80 M",
+                "Vms": "1.39 M"
+            },
+            "Name": "dllhost.exe",
+            "Pid": 7276,
+            "Status": "running"
+        },
+        "Process 77": {
+            "Memory_info": {
+                "Rss": "1.64 M",
+                "Vms": "1.58 M"
+            },
+            "Name": "WUDFHost.exe",
+            "Pid": 4216,
+            "Status": "running"
+        },
+        "Process 78": {
+            "Memory_info": {
+                "Rss": "50.90 M",
+                "Vms": "59.01 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 2040,
+            "Status": "running"
+        },
+        "Process 79": {
+            "Memory_info": {
+                "Rss": "52.89 M",
+                "Vms": "58.80 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 7720,
+            "Status": "running"
+        },
+        "Process 8": {
+            "Memory_info": {
+                "Rss": "5.98 M",
+                "Vms": "4.20 M"
+            },
+            "Name": "svchost.exe",
+            "Pid": 972,
+            "Status": "running"
+        },
+        "Process 80": {
+            "Memory_info": {
+                "Rss": "22.61 M",
+                "Vms": "18.69 M"
+            },
+            "Name": "audiodg.exe",
+            "Pid": 3736,
+            "Status": "running"
+        },
+        "Process 81": {
+            "Memory_info": {
+                "Rss": "23.22 M",
+                "Vms": "6.74 M"
+            },
+            "Name": "ApplicationFrameHost.exe",
+            "Pid": 5208,
+            "Status": "running"
+        },
+        "Process 82": {
+            "Memory_info": {
+                "Rss": "30.27 M",
+                "Vms": "22.95 M"
+            },
+            "Name": "Video.UI.exe",
+            "Pid": 6600,
+            "Status": "stopped"
+        },
+        "Process 83": {
+            "Memory_info": {
+                "Rss": "197.72 M",
+                "Vms": "160.24 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 3404,
+            "Status": "running"
+        },
+        "Process 84": {
+            "Memory_info": {
+                "Rss": "81.67 M",
+                "Vms": "67.07 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 1936,
+            "Status": "running"
+        },
+        "Process 85": {
+            "Memory_info": {
+                "Rss": "25.03 M",
+                "Vms": "9.17 M"
+            },
+            "Name": "notepad++.exe",
+            "Pid": 4544,
+            "Status": "running"
+        },
+        "Process 86": {
+            "Memory_info": {
+                "Rss": "37.90 M",
+                "Vms": "13.52 M"
+            },
+            "Name": "Taskmgr.exe",
+            "Pid": 3092,
+            "Status": "running"
+        },
+        "Process 87": {
+            "Memory_info": {
+                "Rss": "151.59 M",
+                "Vms": "132.07 M"
+            },
+            "Name": "chrome.exe",
+            "Pid": 6192,
+            "Status": "running"
+        },
+        "Process 88": {
+            "Memory_info": {
+                "Rss": "3.10 M",
+                "Vms": "1.65 M"
+            },
+            "Name": "cmd.exe",
+            "Pid": 5220,
+            "Status": "running"
+        },
+        "Process 89": {
+            "Memory_info": {
+                "Rss": "11.32 M",
+                "Vms": "10.00 M"
+            },
+            "Name": "conhost.exe",
+            "Pid": 3196,
+            "Status": "running"
+        },
+        "Process 9": {
+            "Memory_info": {
+                "Rss": "13.92 M",
+                "Vms": "9.95 M"
+            },
+            "Name": "svchost.exe",
+            "Pid": 556,
+            "Status": "running"
+        },
+        "Process 90": {
+            "Memory_info": {
+                "Rss": "10.39 M",
+                "Vms": "4.75 M"
+            },
+            "Name": "python.exe",
+            "Pid": 1788,
+            "Status": "running"
+        },
+        "Process 91": {
+            "Memory_info": {
+                "Rss": "3.10 M",
+                "Vms": "1.66 M"
+            },
+            "Name": "cmd.exe",
+            "Pid": 4240,
+            "Status": "running"
+        },
+        "Process 92": {
+            "Memory_info": {
+                "Rss": "11.16 M",
+                "Vms": "9.96 M"
+            },
+            "Name": "conhost.exe",
+            "Pid": 1636,
+            "Status": "running"
+        },
+        "Process 93": {
+            "Memory_info": {
+                "Rss": "16.25 M",
+                "Vms": "8.13 M"
+            },
+            "Name": "python.exe",
+            "Pid": 5924,
+            "Status": "running"
+        }
+    },
+    "Virtual memory": {
+        "Available": "4.24 G",
+        "Free": "4.24 G",
+        "Percent": 46.7,
+        "Total": "7.95 G",
+        "Used": "3.71 G"
+    }
+}
