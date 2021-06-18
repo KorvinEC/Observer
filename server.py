@@ -66,6 +66,7 @@ def get_user_screenshot(input_ip):
     else:
         print('Screenshot exchange success\n')      
 
+
 def send_script(input_ip, script_name):
     try:
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -82,6 +83,7 @@ def send_script(input_ip, script_name):
         sock.close()
     else:
         print('Script exchange success\n')
+
 
 def get_json(input_ip):
     try:
